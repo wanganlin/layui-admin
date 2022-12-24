@@ -2,6 +2,8 @@
 	width: 320px !important;
 	margin: auto !important;
 	margin-top: 160px !important;
+	padding: 12px 36px;
+    background: white;
 }
 
 .layui-form button {
